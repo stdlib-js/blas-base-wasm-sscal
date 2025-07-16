@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
+## Unreleased (2025-07-16)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2ec2116`](https://github.com/stdlib-js/stdlib/commit/2ec2116fb43058cddc4bf726defbe60823bd2590) - **docs:** fix typo _(by Athan Reines)_
 -   [`402bd40`](https://github.com/stdlib-js/stdlib/commit/402bd405359fba77de13d0136fbf3d1fb956e0ec) - **feat:** add `blas/base/wasm/sscal` [(#5224)](https://github.com/stdlib-js/stdlib/pull/5224) _(by Aman Bhansali, Athan Reines)_
 
 </details>
